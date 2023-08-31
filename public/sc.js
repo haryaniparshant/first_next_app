@@ -1,0 +1,1 @@
+alert("Usama kia kar raha hai bhai tu")
